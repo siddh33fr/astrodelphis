@@ -1,0 +1,68 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 4,
+            "HideIcon": false,
+            "HideIconAfter": 30,
+            "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 4,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "<RichColor Color=\"1,0,0,1\">Bienvenue</>",
+                    "title1": "Bienvenue sur le serveur Astrodelphis Asa The Island",
+                    "text1": "Nous sommes heureux de vous accueillir sur notre nouveau serveur Astrodelphis \n \n Afin de pouvoir jouer sur notre serveur dans la durée, nous vous demandons de bien vouloir inscrire votre tribu avec ses membres et ses coordonnées sur notre discord dont vous trouverez le lien ci-dessous. \n Toute base non inscrite sera détruite dès le lendemain par les admins. Cela peut vous semblait étrange, mais le but est de garder un serveur d'habitués et non surchargé de bases abandonnées. \n \n - Prenez le temps de lire le règlement (#reglement) et les règles en jeu (#règles-en-jeu) sur discord. \n \n Prenez le temps de lire tous les jours les annonces de modifications et events du serveur qui sont faites sur le canal #annonces de discord. Nous n'aimons pas devoir répéter les choses inlassablement alors s'il vous plaît, lisez avant de vous connecter.",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "<RichColor Color=\"1,0,0,1\">Inscriptions tribu</>",
+                    "title1": "Inscrire sa tribu sur discord",
+                    "text1": "La première chose à faire et de vous connecter au discord de la communauté Astrodelphis : https://discord.gg/xMGbFkPwzp \n \n - Lorsque vous vous connectez pour la première fois on vous demande de cliquer sur le canal #reglement (menu de gauche) \n \n - Prenez le temps de lire le règlement et ensuite cliquez sur le carré vert en dessous du post du bot MEE6 si vous acceptez celui-ci. Attention, si vous acceptez le règlement, vous devez le respecter, toute contrevenance sera sanctionnée pour le bien du serveur et de tous les autres joueurs qui y jouent dessus. \n \n - Lisez ensuite les règles en jeu sur le canal #règles-en-jeu de la même façon que pour le règlement, si vous décidez de rester jouer avec nous, vous acceptez de fait les règles en jeu et devez les respecter pour le bien de tous. \n \n - Cliquez sur le canal #les-tribus-asa et saisissez (de préférence sur 3 lignes comme les autres) le nom de votre tribu, le nom des membres de votre tribu (qui devront tous être joignables sur discord) et les coordonnées de votre base même si elle est provisoire. Vous prendrez par la suite le temps de les mettre à jour",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 3,
+                    "buttontext": "<RichColor Color=\"1,0,0,1\">Le Casino</>",
+                    "title1": "Le Casino de jeu Astrodelphis",
+                    "text1": "Le Casino de jeu Astrodelphis vient d'ouvrir ses portes \n \n Il est disponible pour vous divertir certes, mais il est aussi un petit boost à votre jeu. \n \n Le Casino se situe en 75/94, vous avez à votre disposition : \n - Un parking (les dinos sont interdits à l'intérieur) \n - Une série de grosse machine verte vous permettant de convertir vos ressources en pièces de bronze (ces machines dont dispos devant et à l'intérieur du casino. \n - Des bandits-manchots dans la pièce du fond pour vous aider à multiplier votre nombre de pièces en bronze. \n - Des coffres bronze (verts) vous permettant de gagner des éléments, des perles noires, des trophées de dinos, des pièces de bronze pour retenter votre chance, des pièces d'argent pour tenter des coffres plus généreux. \n - Des Coffres argents distribuants des équipements mid-game et pour tenter de gagner des pièces en or vous permttant d'acquérir des équipements end-game, des plans, et prochainement des dinos exceptionnels",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            },
+            {
+                "tab4": {
+                    "layout": 4,
+                    "buttontext": "Faire un don",
+                    "title1": "Faire un don à la communauté Astrodelphis",
+                    "text1": "<TextStyle.Orange>Vous souhaitez montrer votre attachement particulier au serveur et permettre qu'il dure plus longtemps, que les admins continuent à développer les animations ? Faites un don qui ne servira QUE aux maitiens des serveurs de jeu et pour ce 2 méthodes : \n -Faire un don via PAYPAL en utilisant astrodelphisgaming@proton.me (préférable si un jour nous pouvons enfin nous libérer de Nitrado) \n - Faire un don directement sur nitrado https://server.nitrado.net/donations/donate/9456243 </>",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "DISCORD",
+                    "url": "https://discord.gg/xMGbFkPwzp"
+                }
+            },
+            {
+                "link2": {
+                    "text": "DON NITRADO",
+                    "url": "https://server.nitrado.net/donations/donate/9456243"
+                }
+            }
+        ]
+    }
+}
